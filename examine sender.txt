@@ -1,0 +1,17 @@
+sender email address : info@libreriacies.es
+
+This email address is used in https://www.libreriacies.es/ which is not working website.
+
+Topic : Binance Cybersecurity
+This Email is not connected to binance in any aspect.
+
+Sender ip address : 217.18.161.43 
+Hostname :  serlogal.arnoia.com and 
+domain name : aronia.com 
+Location : Granada Spain
+ISP : treverque Sistemas de informacion s.l.
+
+ALL THIS INFORMATION IS FETCH USING SHODAN.
+
+OPen Port : 80 http , 443 https (Ftetch using nmap)
+
